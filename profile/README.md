@@ -37,7 +37,7 @@ This guide is focused on privacy, portability, and offline reliability.
 ![3D Architecture in AutoCAD](https://blog.architizer.com/wp-content/uploads/cafe-3D.png)  
 *Visualizing interior and exterior structures with AutoCAD 3D features*
 
-![AutoCAD Full Toolset](https://www.autodesk.com/content/dam/autodesk/www/products/autocad/fy25/free-trial/images/what-you-can-do-with-autocad-large-1650x1080.jpg)  
+![AutoCAD Full Toolset](https://www.westcam-group.com/wp-content/uploads/2024/04/autocad-1.jpg)  
 *Comprehensive overview of what you can achieve with AutoCAD*
 
 
